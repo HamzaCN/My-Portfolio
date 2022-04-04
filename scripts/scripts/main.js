@@ -599,7 +599,7 @@
             ar: 'مراقبة الجوانب الفنية لتطوير الواجهات الأمامية للمشاريع.'
           }
         }, {
-          date: '2017',
+          date: '2018',
           companyName: {
             en: 'Facebook Inc.',
             ar: 'شركة فيسبوك'
@@ -611,51 +611,9 @@
           desc: {
             en: 'Collaborate with creative and development teams on the execution of ideas.',
             ar: 'تعاونت مع الفرق الإبداعية في تطوير وتنفيذ أفكار مبتكرة.'
-          }
-        }, {
-          date: '2018',
-          companyName: {
-            en: 'Envato Inc.',
-            ar: 'شركة انفاتو'
-          },
-          jobTitle: {
-            en: 'UI/UX Developer',
-            ar: 'مطور UI/UX'
-          },
-          desc: {
-            en: 'Converted Photoshop layouts to web pages using HTML, CSS, and JavaScript.',
-            ar: 'تم تحويل تخطيطات Photoshop إلى صفحات ويب باستخدام HTML و CSS و JavaScript.'
-          }
-        }, {
-          date: '2019',
-          companyName: {
-            en: 'Google Inc.',
-            ar: 'شركة جوجل'
-          },
-          jobTitle: {
-            en: 'Front-End Developer',
-            ar: 'مطور الواجهة الأمامية'
-          },
-          desc: {
-            en: 'Monitored technical aspects of the front-end delivery for projects.',
-            ar: 'مراقبة الجوانب الفنية لتطوير الواجهات الأمامية للمشاريع.'
           }
         }, {
           date: '2020',
-          companyName: {
-            en: 'Facebook Inc.',
-            ar: 'شركة فيسبوك'
-          },
-          jobTitle: {
-            en: 'Full Stack Developer',
-            ar: 'مطوّر الويب المتكامل'
-          },
-          desc: {
-            en: 'Collaborate with creative and development teams on the execution of ideas.',
-            ar: 'تعاونت مع الفرق الإبداعية في تطوير وتنفيذ أفكار مبتكرة.'
-          }
-        }, {
-          date: '2021',
           companyName: {
             en: 'Google Inc.',
             ar: 'شركة جوجل'

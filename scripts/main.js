@@ -508,81 +508,84 @@
         // flag to toggle between skills types in skills section
         skillsType: '',
         // list of skills items to loop through it
-        skillsItems: [{
-          imgUrl: 'https://via.placeholder.com/48',
-          title: 'HTML5'
-        }, {
-          imgUrl: 'https://via.placeholder.com/48',
-          title: 'CSS3'
-        }, {
-          imgUrl: 'https://via.placeholder.com/48',
-          title: 'JavaScript'
-        }, {
-          imgUrl: 'https://via.placeholder.com/48',
-          title: 'TypeScript'
-        }, {
-          imgUrl: 'https://via.placeholder.com/48',
-          title: 'jQuery'
-        }, {
-          imgUrl: 'https://via.placeholder.com/48',
-          title: 'Bootstrap'
-        }, {
-          imgUrl: 'https://via.placeholder.com/48',
-          title: 'Angular'
-        }, {
-          imgUrl: 'https://via.placeholder.com/48',
-          title: 'React'
-        }, {
-          imgUrl: 'https://via.placeholder.com/48',
-          title: 'Vue'
-        }, {
-          imgUrl: 'https://via.placeholder.com/48',
-          title: 'Firebase'
-        }, {
-          imgUrl: 'https://via.placeholder.com/48',
-          title: 'PugJS'
-        }, {
-          imgUrl: 'https://via.placeholder.com/48',
-          title: 'SASS'
+        skillsItems: [
+          {
+          imgUrl: 'assets/images/skills/html5.png',
+        title: 'HTML5'
+      }, {
+        imgUrl: 'assets/images/skills/css3.png',
+        title: 'CSS3'
+      }, {
+        imgUrl: 'assets/images/skills/javascript.png',
+        title: 'JavaScript'
+      }, {
+        imgUrl: 'assets/images/skills/typescript.png',
+        title: 'TypeScript'
+      }, {
+        imgUrl: 'assets/images/skills/jquery.png',
+        title: 'jQuery'
+      }, {
+        imgUrl: 'assets/images/skills/bootstrap.png',
+        title: 'Bootstrap'
+      }, {
+        imgUrl: 'assets/images/skills/next.png',
+        title: 'Next js'
+      }, {
+        imgUrl: 'assets/images/skills/react.png',
+        title: 'React'
+      }, {
+        imgUrl: 'assets/images/skills/vue.png',
+        title: 'Vue'
+      }, {
+        imgUrl: 'assets/images/skills/firebase.png',
+        title: 'Firebase'
+      }, {
+        imgUrl: 'assets/images/skills/mui.png',
+        title: 'Material UI'
+      }, {
+        imgUrl: 'assets/images/skills/tailwind.png',
+        title: 'Tailwind CSS'
         }],
         // list of tools items to loop through it
-        toolsItems: [{
-          imgUrl: 'https://via.placeholder.com/48',
-          title: 'Ajax'
-        }, {
-          imgUrl: 'https://via.placeholder.com/48',
-          title: 'Gulp'
-        }, {
-          imgUrl: 'https://via.placeholder.com/48',
-          title: 'Webpack'
-        }, {
-          imgUrl: 'https://via.placeholder.com/48',
-          title: 'Git (Github)'
-        }, {
-          imgUrl: 'https://via.placeholder.com/48',
-          title: 'Npm'
-        }, {
-          imgUrl: 'https://via.placeholder.com/48',
-          title: 'Command Line'
-        }, {
-          imgUrl: 'https://via.placeholder.com/48',
-          title: 'VS Code'
-        }, {
-          imgUrl: 'https://via.placeholder.com/48',
-          title: 'Trello'
-        }, {
-          imgUrl: 'https://via.placeholder.com/48',
-          title: 'ClickUp'
-        }, {
-          imgUrl: 'https://via.placeholder.com/48',
-          title: 'Slack'
-        }, {
-          imgUrl: 'https://via.placeholder.com/48',
-          title: 'Photoshop'
-        }, {
-          imgUrl: 'https://via.placeholder.com/48',
-          title: 'Adobe XD'
-        }],
+toolsItems: [
+  {
+    imgUrl: 'assets/images/skills/ajax.png',
+    title: 'Ajax'
+  }, {
+    imgUrl: 'assets/images/skills/gulp.png',
+    title: 'Gulp'
+  }, {
+    imgUrl: 'assets/images/skills/webpack.png',
+    title: 'Webpack'
+  }, {
+    imgUrl: 'assets/images/skills/git.png',
+    title: 'Git (Github)'
+  }, {
+    imgUrl: 'assets/images/skills/npm.png',
+    title: 'Npm'
+  }, {
+    imgUrl: 'assets/images/skills/command.png',
+    title: 'Command Line'
+  }, {
+    imgUrl: 'assets/images/skills/vs-code.png',
+    title: 'VS Code'
+  }, {
+    imgUrl: 'assets/images/skills/trello.png',
+    title: 'Trello'
+  }, {
+    imgUrl: 'assets/images/skills/clickup.png',
+    title: 'ClickUp'
+  }, {
+    imgUrl: 'assets/images/skills/slack.png',
+    title: 'Slack'
+  }, {
+    imgUrl: 'assets/images/skills/photoshop.png',
+    title: 'Photoshop'
+  }, {
+    imgUrl: 'assets/images/skills/adobe-xd.png',
+    title: 'Adobe XD'
+  }
+],
         // list of experience items to loop through it
         experienceItems: [{
           date: '2016',

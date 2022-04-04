@@ -2864,6 +2864,12 @@ html[dir=rtl] .notifications-container .notify-leave-active {
   -webkit-mask-size: contain;
           mask-size: contain;
 }
+.fiverr{
+  margin-top: -5px;
+  width: 70px;
+  height: 20px;
+
+}
 .hero-section .hero-img .layer:first-of-type:before {
   content: "";
   position: absolute;

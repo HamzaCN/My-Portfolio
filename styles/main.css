@@ -2874,8 +2874,8 @@ html[dir=rtl] .notifications-container .notify-leave-active {
 }
 .upwork{
   margin-top: -5px;
-  width: 90px;
-  height: 40px;
+  width: 100px;
+  height: 100px;
 }
 .hero-section .hero-img .layer:first-of-type:before {
   content: "";

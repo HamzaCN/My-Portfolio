@@ -590,49 +590,49 @@ toolsItems: [
         experienceItems: [{
           date: '2016',
           companyName: {
-            en: 'Google Inc.',
+            en: 'Soft Enterprise',
             ar: 'شركة جوجل'
           },
           jobTitle: {
-            en: 'Front-End Developer',
+            en: 'C# Developer',
             ar: 'مطور الواجهة الأمامية'
           },
           desc: {
-            en: 'Monitored technical aspects of the front-end delivery for projects.',
+            en: 'Monitored technical aspects of the backend delivery for projects.',
             ar: 'مراقبة الجوانب الفنية لتطوير الواجهات الأمامية للمشاريع.'
           }
         }, {
           date: '2017',
           companyName: {
-            en: 'Facebook Inc.',
+            en: 'Duo Sols',
             ar: 'شركة فيسبوك'
           },
           jobTitle: {
-            en: 'Full Stack Developer',
+            en: 'Frontend Developer',
             ar: 'مطوّر الويب المتكامل'
           },
           desc: {
-            en: 'Collaborate with creative and development teams on the execution of ideas.',
+            en: 'Collaborate with creative and development teams on the frontend projects',
             ar: 'تعاونت مع الفرق الإبداعية في تطوير وتنفيذ أفكار مبتكرة.'
           }
         }, {
           date: '2018',
           companyName: {
-            en: 'Envato Inc.',
+            en: 'Car Zone',
             ar: 'شركة انفاتو'
           },
           jobTitle: {
-            en: 'UI/UX Developer',
+            en: 'Full Stack Developer',
             ar: 'مطور UI/UX'
           },
           desc: {
-            en: 'Converted Photoshop layouts to web pages using HTML, CSS, and JavaScript.',
+            en: 'Developed a complete full stack solution for Car Dealer and managed it.',
             ar: 'تم تحويل تخطيطات Photoshop إلى صفحات ويب باستخدام HTML و CSS و JavaScript.'
           }
         }, {
           date: '2019',
           companyName: {
-            en: 'Google Inc.',
+            en: 'Gaminators',
             ar: 'شركة جوجل'
           },
           jobTitle: {
@@ -640,13 +640,13 @@ toolsItems: [
             ar: 'مطور الواجهة الأمامية'
           },
           desc: {
-            en: 'Monitored technical aspects of the front-end delivery for projects.',
+            en: 'Monitored technical aspects of the front-end delivery for projects and app launch sites.',
             ar: 'مراقبة الجوانب الفنية لتطوير الواجهات الأمامية للمشاريع.'
           }
         }, {
-          date: '2020',
+          date: '2021',
           companyName: {
-            en: 'Facebook Inc.',
+            en: 'Worked for Local Clients',
             ar: 'شركة فيسبوك'
           },
           jobTitle: {
@@ -654,7 +654,7 @@ toolsItems: [
             ar: 'مطوّر الويب المتكامل'
           },
           desc: {
-            en: 'Collaborate with creative and development teams on the execution of ideas.',
+            en: 'Worked for local clients for complete ecommerce Solutions',
             ar: 'تعاونت مع الفرق الإبداعية في تطوير وتنفيذ أفكار مبتكرة.'
           }
         }, {

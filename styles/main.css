@@ -3,7 +3,7 @@
 ** Table of Contents:                                                                       **
 **********************************************************************************************
 
-Project:    Nafie - HTML Portfolio Template
+Project:    Hamza Safdar Portfolio
 Version:    3.0.0
 Created:    04/2021
 Updated:    03/2022
@@ -2870,6 +2870,11 @@ html[dir=rtl] .notifications-container .notify-leave-active {
   height: 20px;
   margin-right: 6px;
 
+}
+.upwork{
+  margin-top: -5px;
+  width: 90px;
+  height: 70px;
 }
 .hero-section .hero-img .layer:first-of-type:before {
   content: "";
